@@ -23,7 +23,7 @@ The Microsoft Authenticator app provides an additional level of security in your
 
 The app works in one of two ways:
 
-* **Notification**. The app can help prevent unauthorized access to accounts and stop fraudulent transactions by pushing a notification to your smartphone or tablet. Simply view the notification, and if it's legitimate, select **Verify**. Otherwise, you can select **Deny**.
+* **Notification**. The app can help prevent unauthorized access to accounts and stop fraudulent transactions by pushing a notification to your smartphone or tablet. Simply view the notification, and if it's legitimate, select **Approve**. Otherwise, you can select **Deny**.
 * **Verification code**. The app can be used as a software token to generate an OAuth verification code. After you enter your username and password, you enter the code provided by the app into the sign-in screen. The verification code provides a second form of authentication.
 
 The Microsoft Authenticator app replaces the Azure Authenticator app. The Azure Authenticator app still works, but if you decide to move to the new Microsoft Authenticator app, this article can assist you.  
